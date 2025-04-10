@@ -30,5 +30,8 @@ Installation Notes
 
 To install the required packages manually:
 pip install torch torchvision torchaudio opencv-python matplotlib
+## Run on Google Colab
+
+[Open the notebook](https://colab.research.google.com/drive/https://colab.research.google.com/drive/11RMjL3hW31KnmZyUiND0WHlD7svU1wkA?usp=sharing)
 
  
